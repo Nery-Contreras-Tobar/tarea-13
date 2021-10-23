@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: gt.edu.umg.demoP2bPrimero.DemoP2bPrimeroApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.719 s - in gt.edu.umg.demoP2bPrimero.DemoP2bPrimeroApplicationTests
